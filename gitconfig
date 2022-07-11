@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = matteo.vig27@gmail.com
+	name = matteo vigolo
